@@ -1,2 +1,2 @@
 # DesenvolvimentoAPI
- Aprendendo a desevolver APIs com NODEJs, vamos juntos?
+ Aprendendo a desenvolver APIs com NODEJs, vamos juntos?
