@@ -14,7 +14,7 @@ init();
 async function init() {
   //await criandoestados();
   //await retornaQtdCidades('SP');
-  await retornaEstadoComMaiorOuMenorCidades(false);
+  //await retornaEstadoComMaiorOuMenorCidades(false);
   //await retornaMaiorOuMenorNomeCidades(true);
   //await getBiggerOrSmallerNameCities(true);
   //await getBiggerOrSmallerNameCities(false);
